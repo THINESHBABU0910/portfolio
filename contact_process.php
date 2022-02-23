@@ -15,7 +15,7 @@
 	$headers .= "MIME-Version: 1.0\r\n";
 	$headers .= "Content-Type: text/html; charset=ISO-8859-1\r\n";
 
-    $subject = "New mail fron THINESH.codes";
+    $subject = "New mail for THINESH ";
 
     $logo = 'img/logo.jpeg';
     $link = 'thineshbabu.ks@gmail.com';
